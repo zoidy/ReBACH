@@ -66,7 +66,7 @@ def main():
 
     try:
         print("Using schema {0}".format(schema))
-        f = open(schema, "r")
+        f=open(schema, "r")
         data = f.read()
         f.close()
         schema_dict = load_yaml(data)
