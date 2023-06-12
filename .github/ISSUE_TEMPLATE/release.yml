@@ -11,7 +11,7 @@ body:
     id: release-steps
     attributes:
       label: Steps
-      description: All these steps can be done in GitHub itself. After completing the final step here, follow the steps from the pull request (PR) template.
+      description: Create the issue first. All these steps can be done in GitHub itself. After completing the final step here, follow the steps from the pull request (PR) template.
       options:
       - label: Check that the title of this issue reflects the new version number.
       - label: Create a new branch by clicking on `create branch` on the right-hand sidebar (as shown in the [GitHub docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-a-branch-for-an-issue).      
