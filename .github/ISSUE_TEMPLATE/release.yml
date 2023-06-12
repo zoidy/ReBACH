@@ -20,6 +20,6 @@ body:
       description: All these steps can be done in GitHub itself. After completing the final step here, follow the steps from the pull request (PR) template.
       options:
       - label: Check that the title of this issue reflects the new version number.
-      - label: Create a new branch by clicking on `create branch` on the right-hand sidebar (as shown in the [GitHub docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-a-branch-for-an-issue).      
+      - label: Create a new branch by clicking on `create branch` on the right-hand sidebar (as shown in the [GitHub docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-a-branch-for-an-issue)).      
       - label: In the new branch, update `version.py` with the new version number and commit.
       - label: Create a [new PR](../pulls). Ensure the base branch is `main` or `master` and the comparison branch is the new branch. Use the "Release" PR template.
