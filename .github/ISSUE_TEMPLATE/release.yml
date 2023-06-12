@@ -1,6 +1,6 @@
 name: Release
 description: Release a new version of the software
-title: Release: v0.xx.0
+title: "Release: v0.xx.0"
 labels: ["release"]
 body:
   - type: markdown
