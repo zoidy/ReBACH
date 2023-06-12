@@ -12,7 +12,7 @@ body:
     attributes:
       label: Create Issue
       options:
-        - I have named this issue using the new version number.
+        - label: I have named this issue using the new version number.
   - type: checkboxes
     id: release-steps
     attributes:
