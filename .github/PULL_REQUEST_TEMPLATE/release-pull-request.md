@@ -4,7 +4,7 @@
 <!-- Do not push the release tag until this PR is merged -->
 This pull request updates ReQUIAM v0.xx.x -> v0.xx.0. Fixes #<insert associated issue number>
 
-***Check you're on the right branch**
+**Check you're on the right branch**
 - [ ] Make sure you're on the right branch by checking that [`version.py`](../../../../blob/master/setup.py) contains the updated version number.
 
 **Begin a new release**
