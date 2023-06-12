@@ -1,9 +1,11 @@
-<!-- Fields in **bold** are REQUIRED, fields in *italics* are OPTIONAL. -->
+<!-- Create a new Release issue before using this template -->
 
 **Description**
 <!-- Do not push the release tag until this PR is merged -->
 This pull request updates ReQUIAM v0.xx.x -> v0.xx.0. Fixes #<insert associated issue number>
 
+<!-- You may create the pull request after editing the description above. -->
+<!-- The remaining steps can be completed after PR creation -->
 **Check you're on the right branch**
 - [ ] Make sure you're on the right branch by checking that [`version.py`](../../../../blob/master/setup.py) contains the updated version number.
 
