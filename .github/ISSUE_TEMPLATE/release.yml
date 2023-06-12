@@ -8,6 +8,12 @@ body:
       value: |
         Create the issue first, then follow the steps below to create a new release.
   - type: checkboxes
+    id: prelims
+    attributes:
+      label: Create Issue
+      options:
+        - I have named this issue using the new version number.
+  - type: checkboxes
     id: release-steps
     attributes:
       label: Steps
